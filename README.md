@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/kaweesha-07-31-2" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/cdae2d0df7dbfef8afbe2.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="JulieMwol" src="https://telegra.ph/kaweesha-07-31-2"></a>
 </p>
